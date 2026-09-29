@@ -1,0 +1,30 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Google credentials
+client_secret*.json
+token*.json
+credentials*.json
+
+# Runtime / user data
+data/decisions.jsonl
+data/candidate_action_prompt.txt
+data/optimized_action_prompt.txt
+
+# Logs
+*.log
