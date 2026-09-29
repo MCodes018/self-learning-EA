@@ -1,4 +1,4 @@
-# The Gen Academy — Self-Learning Executive Assistant / Future AGI Prototype
+# The Gen Academy — Self-Learning Executive Assistant / Future AGI
 
 Presentation prototype with TGA-branded Streamlit UI, LLM decisions, pending→resolved workflow, Activity history, read-only Gmail/Calendar/Slack, and Future AGI Observe/Evaluate/Protect/Optimize/Simulate.
 
@@ -55,7 +55,7 @@ DEMO_MODE=false
 SHADOW_MODE=true
 ```
 
-## What is genuinely Future AGI here
+## Future AGI features
 - **Observe:** `fi-instrumentation-otel` + `traceAI-openai`, project registration and OpenAI auto-instrumentation.
 - **Evaluate:** `ai-evaluation` with `accuracy` and `groundedness`.
 - **Protect:** `Protect.protect()` with prompt-injection and data-privacy checks before LLM processing.
